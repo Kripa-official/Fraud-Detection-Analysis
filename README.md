@@ -1,3 +1,5 @@
+<img width="498" height="438" alt="FraudTrollGIF" src="https://github.com/user-attachments/assets/a0d3e76f-be49-466d-b46f-fefdc2dc9974" />
+
 # Fraud Detection Analysis
 
 An end-to-end data science and machine learning project focused on detecting fraudulent financial transactions using advanced statistical analysis and predictive modeling.
